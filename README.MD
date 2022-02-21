@@ -1,7 +1,7 @@
 # spootipy (MakeUofT 2021 project)
 ![](https://i.imgur.com/IU3i8WE.jpg)
 
-sp__ti for spotify, oo for the sensors, py for python
+View full demo [here](https://www.youtube.com/watch?v=g0BCuLezZFc)!
 
 ## Pitch
 Interfaces with your spotify albums! Spootipy allows you to recapture that feeling of physically interacting with your music. It allows you to use physical objects to control music flow, much like a gramophone.
