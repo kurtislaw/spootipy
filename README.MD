@@ -10,14 +10,14 @@ Interfaces with your spotify albums! Spootipy allows you to recapture that feeli
 
 ## Features
 ### 1. Album cartridges
-![](https://github.com/kurtislaw/spootipy/gifs/album.gif)
+![](https://github.com/kurtislaw/spootipy/blob/main/gifs/album.gif)
 
 
 ### 2. Volume controls (raise/lower hands)
-![](https://github.com/kurtislaw/spootipy/gifs/volume.gif)
+![](https://github.com/kurtislaw/spootipy/blob/main/gifs/volume.gif)
 
 ### 3. Playback modification (swipe)
-![](https://github.com/kurtislaw/spootipy/gifs/playah.gif)
+![](https://github.com/kurtislaw/spootipy/blob/main/gifs/playah.gif)
 
 ## How we built it
 We made Spootipy using a/an:
