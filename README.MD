@@ -1,4 +1,4 @@
-# spootipy (MakeUofT 2021 project)
+# spootipy (MakeUofT 2022 project)
 ![](https://i.imgur.com/IU3i8WE.jpg)
 
 View full demo [here](https://www.youtube.com/watch?v=g0BCuLezZFc)!
